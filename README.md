@@ -10,7 +10,8 @@ function maximalSquare(matrix) {
 }
 ```
 Alexander Shumilin <icehuntmen@gmail.com> or <hunter7488@gmail.com>
-Выполнил только 4 задания ,на пятом немного застрал
+
+Выполнил только 4 задания, на пятом немного застрял
 
 [maximalSquare](https://www.notion.so/maximalSquare-b217c17cdd474081a866e56b4051fee8)
 ```
