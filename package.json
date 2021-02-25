@@ -1,0 +1,16 @@
+{
+  "name": "lh-task",
+  "version": "1.0.0",
+  "description": "JavaScript test tasks",
+  "author": "Alexander Hunter <hunter7488@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "maximalSquare": "node maximalSquare.js",
+    "repeatedDNASequences": "node repeatedDNASequences.js",
+    "firstDuplicate": "node firstDuplicate.js",
+    "groupingDishes": "node groupingDishes.js",
+    "findDeadlock": "node findDeadlock.js"
+  },
+  "keywords": ["javascript","es6","nodejs"],
+  "license": "ISC"
+}
