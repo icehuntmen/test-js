@@ -10,12 +10,6 @@ function maximalSquare(matrix) {
 }
 ```
 
-Результат выполнения стоит отправлять  в Telegram-чат, из которого было получено задание.
-
-Задания проверяются в течение 5 рабочих дней.
-
-Допускается выполнение части заданий, но лучше выполнить все.
-
 
 [maximalSquare](https://www.notion.so/maximalSquare-b217c17cdd474081a866e56b4051fee8)
 ```
@@ -35,5 +29,5 @@ npm run groupingDishes
 ```
 [findDeadlock](https://www.notion.so/findDeadlock-a7e3ecc74011401fb5fca148b78fed23)
 ```
-npm run findDeadlock
+work no correct
 ```
